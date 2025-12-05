@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @1410rahel
-- 👀 I’m interested in tech related things.
-- 🌱 I’m currently learning different languages like python and C.
-- 💞️ I’m looking to collaborate and discuss various projects in the field of technology.
+- 👋 Hi
+
 
 
 <!---
